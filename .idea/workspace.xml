@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80c790ca-78c2-491b-893e-8eb78a921a79" name="Default Changelist" comment="" />
+    <list default="true" id="80c790ca-78c2-491b-893e-8eb78a921a79" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/andriosi/fabio/vendas/entity/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/andriosi/fabio/vendas/entity/Compra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/andriosi/fabio/vendas/session/AbstractFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/andriosi/fabio/vendas/session/AbstractFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/AbstractFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/AbstractFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/vendas-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/vendas-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/vendas-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/vendas-1.0-SNAPSHOT.jar.original" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1duJ8OdtkAyS1KEk8OsAKlZXjti" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,7 +49,7 @@
       <recent name="com.andriosi.fabio.vendas.session" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.ClienteTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.andriosi.fabio.vendas.main.Main" />
       <module name="vendas" />
@@ -46,6 +59,21 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vendas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.andriosi.fabio.vendas.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.andriosi.fabio.vendas.teste" />
+      <option name="MAIN_CLASS_NAME" value="com.andriosi.fabio.vendas.teste.ClienteTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,10 +110,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ClienteTest.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vendas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.andriosi.fabio.vendas.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.andriosi.fabio.vendas.teste" />
+      <option name="MAIN_CLASS_NAME" value="com.andriosi.fabio.vendas.teste.ClienteTest" />
+      <option name="METHOD_NAME" value="remove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ClienteTest" />
+        <item itemvalue="JUnit.ClienteTest.remove" />
         <item itemvalue="JUnit.ClienteTest.findAll" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.ClienteTest.insertCliente" />
       </list>
     </recent_temporary>
@@ -132,42 +178,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593965873052" />
-    <state width="1877" height="342" key="GridCell.Tab.0.bottom" timestamp="1593733321049">
+    <state width="1877" height="374" key="GridCell.Tab.0.bottom" timestamp="1594210140778">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593733321049" />
-    <state width="1877" height="342" key="GridCell.Tab.0.center" timestamp="1593733321033">
+    <state width="1877" height="374" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594210140778" />
+    <state width="1877" height="374" key="GridCell.Tab.0.center" timestamp="1594210140778">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="342" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593733321033" />
-    <state width="1877" height="342" key="GridCell.Tab.0.left" timestamp="1593733321033">
+    <state width="1877" height="374" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594210140778" />
+    <state width="1877" height="374" key="GridCell.Tab.0.left" timestamp="1594210140778">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="342" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593733321033" />
-    <state width="1877" height="342" key="GridCell.Tab.0.right" timestamp="1593733321033">
+    <state width="1877" height="374" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594210140778" />
+    <state width="1877" height="374" key="GridCell.Tab.0.right" timestamp="1594210140778">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="342" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593733321033" />
-    <state width="1877" height="502" key="GridCell.Tab.1.bottom" timestamp="1593474439010">
+    <state width="1877" height="374" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594210140778" />
+    <state width="1877" height="374" key="GridCell.Tab.1.bottom" timestamp="1594210140779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="502" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593474439010" />
-    <state width="1877" height="502" key="GridCell.Tab.1.center" timestamp="1593474439009">
+    <state width="1877" height="374" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594210140779" />
+    <state width="1877" height="374" key="GridCell.Tab.1.center" timestamp="1594210140779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="502" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593474439009" />
-    <state width="1877" height="502" key="GridCell.Tab.1.left" timestamp="1593474439009">
+    <state width="1877" height="374" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594210140779" />
+    <state width="1877" height="374" key="GridCell.Tab.1.left" timestamp="1594210140778">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="502" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593474439009" />
-    <state width="1877" height="502" key="GridCell.Tab.1.right" timestamp="1593474439009">
+    <state width="1877" height="374" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594210140778" />
+    <state width="1877" height="374" key="GridCell.Tab.1.right" timestamp="1594210140779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="502" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593474439009" />
+    <state width="1877" height="374" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594210140779" />
     <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1593459674451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593459674451" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1594205884485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1594205884485" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1593473478158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -178,28 +228,18 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java</url>
-          <line>10</line>
+          <line>16</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java</url>
-          <line>9</line>
+          <line>15</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java</url>
-          <line>12</line>
+          <line>17</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/andriosi/fabio/vendas/controller/ClienteController.java</url>
@@ -211,7 +251,42 @@
           <line>25</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/andriosi/fabio/vendas/session/AbstractFacade.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/andriosi/fabio/vendas/session/AbstractFacade.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/andriosi/fabio/vendas/session/AbstractFacade.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="em" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

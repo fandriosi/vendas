@@ -47,7 +47,10 @@ public abstract class AbstractFacade<T> {
      * @param entity tabela do Banco de Dados mapeada por uma entidade.
      */
     public void remove(T entity) {
-        getEntityManager().remove(getEntityManager().merge(entity));
+        EntityManager em = getEntityManager();
+        em.getTransaction().begin();
+        em.remove(entity);
+        em.getTransaction().commit();
     }
     /**
      * Método que implementa a busca de uma tabela do Banco de Dados mapeada por uma entidade.
