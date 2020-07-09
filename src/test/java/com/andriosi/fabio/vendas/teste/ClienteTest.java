@@ -6,12 +6,14 @@ import org.junit.FixMethodOrder;
 import org.junit.Test;
 import org.junit.runners.MethodSorters;
 
+import javax.persistence.EntityExistsException;
+
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNull;
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class ClienteTest {
     @Test
-    public void clienteTesteA(){
+    public void clienteTesteA() throws EntityExistsException {
         Cliente cliente = new Cliente();
         cliente.setNome("Gisele");
         new ClienteFacade().create(cliente);

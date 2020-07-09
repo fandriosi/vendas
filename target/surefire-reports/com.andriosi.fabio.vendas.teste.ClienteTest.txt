@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.andriosi.fabio.vendas.teste.ClienteTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 50.518 s - in com.andriosi.fabio.vendas.teste.ClienteTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.993 s - in com.andriosi.fabio.vendas.teste.ClienteTest

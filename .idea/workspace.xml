@@ -2,12 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80c790ca-78c2-491b-893e-8eb78a921a79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/andriosi/fabio/vendas/entity/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/andriosi/fabio/vendas/entity/Compra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/andriosi/fabio/vendas/session/AbstractFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/andriosi/fabio/vendas/session/AbstractFacade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/controller/ClienteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/controller/ClienteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/Compra.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/Compra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/Estoque.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/Estoque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/Produtos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/Produtos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/TipoPagamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/TipoPagamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/main/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/AbstractFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/AbstractFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/ClienteFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/ClienteFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/ComprasFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/ComprasFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/EstoqueFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/EstoqueFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/ProdutosFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/ProdutosFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.andriosi.fabio.vendas.teste.ClienteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.andriosi.fabio.vendas.teste.ClienteTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.andriosi.fabio.vendas.teste.ClienteTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.andriosi.fabio.vendas.teste.ClienteTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/andriosi/fabio/vendas/teste/ClienteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/andriosi/fabio/vendas/teste/ClienteTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/vendas-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/vendas-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/vendas-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/vendas-1.0-SNAPSHOT.jar.original" afterDir="false" />
     </list>
@@ -31,11 +49,13 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/venda-app" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -227,21 +247,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/andriosi/fabio/vendas/controller/ClienteController.java</url>
           <line>19</line>
           <option name="timeStamp" value="8" />
@@ -253,17 +258,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java</url>
-          <line>34</line>
+          <line>36</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java</url>
-          <line>35</line>
+          <line>37</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java</url>
-          <line>36</line>
+          <line>38</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
