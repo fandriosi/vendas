@@ -1,7 +1,6 @@
 package com.andriosi.fabio.vendas.entity;
 
 import javax.persistence.*;
-import javax.validation.constraints.NotNull;
 import java.io.Serializable;
 @Entity
 public class Cliente implements Serializable {
@@ -11,11 +10,9 @@ public class Cliente implements Serializable {
     @Column
     private String nome;
     @Column
-    private String eMail;
+    private String email;
     @Column
-    private String area;
-    @Column
-    private String fone;
+    private String phone;
 
     public Long getId() {
         return id;
@@ -33,27 +30,19 @@ public class Cliente implements Serializable {
         this.nome = nome;
     }
 
-    public String geteMail() {
-        return eMail;
+    public String getEmail() {
+        return email;
     }
 
-    public void seteMail(String eMail) {
-        this.eMail = eMail;
+    public void setEmail(String email) {
+        this.email = email;
     }
 
-    public String getArea() {
-        return area;
+    public String getPhone() {
+        return phone;
     }
 
-    public void setArea(String area) {
-        this.area = area;
-    }
-
-    public String getFone() {
-        return fone;
-    }
-
-    public void setFone(String fone) {
-        this.fone = fone;
+    public void setPhone(String phone) {
+        this.phone = phone;
     }
 }
