@@ -10,6 +10,12 @@ public class Cliente implements Serializable {
     private Long id;
     @Column
     private String nome;
+    @Column
+    private String eMail;
+    @Column
+    private String area;
+    @Column
+    private String fone;
 
     public Long getId() {
         return id;
@@ -25,5 +31,29 @@ public class Cliente implements Serializable {
 
     public void setNome(String nome) {
         this.nome = nome;
+    }
+
+    public String geteMail() {
+        return eMail;
+    }
+
+    public void seteMail(String eMail) {
+        this.eMail = eMail;
+    }
+
+    public String getArea() {
+        return area;
+    }
+
+    public void setArea(String area) {
+        this.area = area;
+    }
+
+    public String getFone() {
+        return fone;
+    }
+
+    public void setFone(String fone) {
+        this.fone = fone;
     }
 }

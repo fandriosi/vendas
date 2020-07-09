@@ -50,6 +50,7 @@ public abstract class AbstractFacade<T> {
         EntityManager em = getEntityManager();
         em.getTransaction().begin();
         em.remove(entity);
+        em.flush();
         em.getTransaction().commit();
     }
     /**
