@@ -2,11 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80c790ca-78c2-491b-893e-8eb78a921a79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/andriosi/fabio/vendas/entity/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/andriosi/fabio/vendas/entity/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/andriosi/fabio/vendas/teste/ClienteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/controller/ClienteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/controller/ClienteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/Compra.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/Compra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/Estoque.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/Estoque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/Produtos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/Produtos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/TipoPagamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/entity/TipoPagamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/main/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/AbstractFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/AbstractFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/ClienteFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/ClienteFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/ComprasFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/ComprasFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/EstoqueFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/EstoqueFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/ProdutosFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andriosi/fabio/vendas/session/ProdutosFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.andriosi.fabio.vendas.teste.ClienteTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.andriosi.fabio.vendas.teste.ClienteTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/andriosi/fabio/vendas/teste/ClienteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/andriosi/fabio/vendas/teste/ClienteTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/vendas-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/vendas-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/vendas-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/vendas-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vendas.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +60,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/venda-app" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -158,6 +189,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593458348976" />
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594332683261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594332683261" />
     <state x="756" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593460166694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -170,10 +205,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="408" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1593473950032" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593965873052">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594333800727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593965873052" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594333800727" />
     <state width="1877" height="374" key="GridCell.Tab.0.bottom" timestamp="1594210140778">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -210,6 +245,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593459674451" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1594339494187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594339494187" />
     <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1594205884485">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -218,6 +257,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593473478158" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594332602907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594332602907" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
